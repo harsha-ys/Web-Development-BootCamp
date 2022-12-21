@@ -20,3 +20,8 @@ img
 {
     background-color: green;
 }
+/***************ID SELECTORS*******************/
+#heading
+{
+    color: blue;
+}
