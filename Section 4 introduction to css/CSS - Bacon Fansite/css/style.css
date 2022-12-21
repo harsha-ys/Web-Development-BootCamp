@@ -20,8 +20,12 @@ img
 {
     background-color: green;
 }
+.circular
+{
+    border-radius: 100%;
+}
 /***************ID SELECTORS*******************/
 #heading
 {
-    color: blue;
+    color: green;
 }
