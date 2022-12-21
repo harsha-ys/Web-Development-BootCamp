@@ -4,12 +4,12 @@ h1
     color: black; 
     font-size: 30px
 }
-/*
-img
+
+img:hover
 {
-    background-color: red;
+    background-color: #F8F988;
 }
-*/
+
 
 /***************CLASS SELECTORS*******************/
 .bacon
