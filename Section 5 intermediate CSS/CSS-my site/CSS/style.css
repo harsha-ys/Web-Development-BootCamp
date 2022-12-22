@@ -6,7 +6,10 @@ h1
 {
     margin-top: 0;
 }
-
+span
+{
+    text-decoration: underline;
+}
 .top-container
 {
     background-color: #C3F8FF;
