@@ -7,7 +7,20 @@ h1
     margin-top: 0;
 }
 
-div
+.top-container
 {
     background-color: #C3F8FF;
+
+}
+.middle-container
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.bottom-container
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
 }
