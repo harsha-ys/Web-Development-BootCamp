@@ -9,12 +9,14 @@ h1
 p
 {
     background-color: aqua;
-    width: 100px;
+    width: 200px;
+    display: inline;
 }
 span
 {
     background-color: red;
     width: 100px;
+    display: block;
 }
 .top-container
 {
