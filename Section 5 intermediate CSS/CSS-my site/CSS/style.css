@@ -15,6 +15,9 @@ p
 span
 {
     text-decoration: underline;
+    display: block;
+    background-color: red;
+    width: 100px;
 }
 .top-container
 {
