@@ -35,3 +35,7 @@ span
     height: 200px;
     background-color: blue;
 }
+.second-p
+{
+    display: none;
+}
