@@ -10,12 +10,9 @@ p
 {
     background-color: aqua;
     width: 100px;
-    display: inline;
 }
 span
 {
-    text-decoration: underline;
-    display: block;
     background-color: red;
     width: 100px;
 }
