@@ -16,7 +16,7 @@ span
 {
     background-color: red;
     width: 100px;
-    display: block;
+    /*display: block;*/
 }
 .top-container
 {
@@ -37,5 +37,6 @@ span
 }
 .second-p
 {
-    display: none;
+    visibility: hidden;/*different other than display value none is this causes to display the box area 
+    unvisibly. area is occupied when rendering but nothing display in this area*/
 }
