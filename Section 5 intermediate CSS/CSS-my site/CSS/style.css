@@ -4,6 +4,7 @@
     height: 100px;
     width: 100px;
     background-color:red;
+    display: inline-block;
     position: relative;
     left: 200px;
 
@@ -13,15 +14,16 @@
     height: 100px;
     width: 100px;
     background-color:blue;
+    display: inline-block;
     position: relative;
-    bottom: 100px;
+    right: 100px;
 }
 .bottom-container
 {
     height: 100px;
     width: 100px;
     background-color:yellow;
+    display: inline-block;
     position: relative;
-    left: 100px;
-    bottom: 200px;
+    right: 100px;
 }
