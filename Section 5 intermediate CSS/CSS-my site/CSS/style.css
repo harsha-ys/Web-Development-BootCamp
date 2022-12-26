@@ -2,14 +2,20 @@ body
 {
     margin: 0px;
 }
+.container
+{
+    position: relative;
+    background-color: grey;
+    height: 300px;
+    width: 300px;
+}
 .top-container
 {
     height: 100px;
     width: 100px;
     background-color:red;
     position: absolute;
-    left: 200px;
-    top: 200px;
+    right: 20px;
 
 }
 .middle-container
@@ -17,16 +23,14 @@ body
     height: 100px;
     width: 100px;
     background-color:blue;
-    position: absolute;
-    left: 100px;
-    top: 100px;
-
+    position: relative;
 }
+
 .bottom-container
 {
     height: 100px;
     width: 100px;
     background-color:yellow;
-    position: absolute;
+    position: relative;
 
 }
