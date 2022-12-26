@@ -15,7 +15,7 @@ body
     width: 100px;
     background-color:red;
     position: absolute;
-    right: 20px;
+    right: 0;
 
 }
 .middle-container
@@ -23,7 +23,9 @@ body
     height: 100px;
     width: 100px;
     background-color:blue;
-    position: relative;
+    position: absolute;
+    left: 100px;
+    top: 0;
 }
 
 .bottom-container
@@ -31,6 +33,8 @@ body
     height: 100px;
     width: 100px;
     background-color:yellow;
-    position: relative;
+    position: fixed;
+    top: 0;
+    
 
 }
