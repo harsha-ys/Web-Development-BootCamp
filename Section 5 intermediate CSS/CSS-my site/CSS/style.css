@@ -4,15 +4,17 @@ body
     background-color: #EAFDFC;
     text-align: center;
     font-family: 'Merriweather', serif;
-    font-size: 2em; /*this 2em is inherited by body's childrens*/ 
+    font-size: 1em; /*this 2em is inherited by body's childrens*/ 
 }
 h1
 {
     margin: 0 auto;
     width: 40%;
     font-family: 'Sacramento', cursive;
-    font-size: 5.625em;/* iem = M size = 16px in medium font size and also the parent em value or 
-    the percentage value of the font size will be inherited by this child h1 em value and concatenate*/
+    font-size: 5.625rem;/* iem = M size = 16px in medium font size and also the parent em value or 
+    the percentage value of the font size will be inherited by this child h1 em value and concatenate
+    
+    we can use rem (root element's font size to resolve that dependancy.)*/
 }
 h2
 {
