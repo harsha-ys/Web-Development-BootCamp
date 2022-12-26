@@ -10,7 +10,7 @@ h1
     margin: 0 auto;
     width: 40%;
     font-family: 'Sacramento', cursive;
-    font-size: 562.5%;
+    font-size: 5.625em;/* iem = M size = 16px in medium font size*/
 }
 h2
 {
