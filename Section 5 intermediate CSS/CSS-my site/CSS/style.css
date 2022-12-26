@@ -9,3 +9,20 @@ h1
     margin: 0 auto;
     width: 20%;
 }
+.top-container
+{
+    padding-top: 100px;
+    position: relative;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
