@@ -8,8 +8,7 @@ body
 }
 h1
 {
-    margin: 0 auto;
-    width: 40%;
+    margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;/* iem = M size = 16px in medium font size and also the parent em value or 
     the percentage value of the font size will be inherited by this child h1 em value and concatenate
@@ -19,6 +18,7 @@ h1
 h2
 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
 h3
 {
