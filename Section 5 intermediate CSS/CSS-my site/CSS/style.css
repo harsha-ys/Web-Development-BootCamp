@@ -56,5 +56,16 @@ a
     width: 50%;
     margin: 100px auto 100px;
     text-align: left;
+    line-height: 2;
     
+}
+.all_skills
+{
+    width: 45%;
+    float: left;
+    margin-right: 20px;
+}
+.sec_skill
+{
+    width: 45%;
 }
