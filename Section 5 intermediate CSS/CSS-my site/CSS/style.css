@@ -16,7 +16,7 @@ h1
     we can use rem (root element's font size to resolve that dependancy.)*/
 
     color: #66BFBF;/*text color*/
-    line-height: 2;/*sets the distance between the lines of texts*/
+    /*line-height: 2;/*sets the distance between the lines of texts*/
 }
 h2
 {
@@ -50,4 +50,11 @@ a
     position: absolute;
     left: 300px;
     bottom: 300px;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    
 }
