@@ -16,6 +16,7 @@ h1
     we can use rem (root element's font size to resolve that dependancy.)*/
 
     color: #66BFBF;/*text color*/
+    line-height: 2;/*sets the distance between the lines of texts*/
 }
 h2
 {
