@@ -1,0 +1,1 @@
+all the basic exercises are done using chrom developer tool itself including varibles, alert, promt, functions and etc
